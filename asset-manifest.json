@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/surya24k/pagination-using-fake-API.git/static/css/main.1f9d40a4.css",
+    "main.js": "/surya24k/pagination-using-fake-API.git/static/js/main.a5605d03.js",
+    "index.html": "/surya24k/pagination-using-fake-API.git/index.html",
+    "main.1f9d40a4.css.map": "/surya24k/pagination-using-fake-API.git/static/css/main.1f9d40a4.css.map",
+    "main.a5605d03.js.map": "/surya24k/pagination-using-fake-API.git/static/js/main.a5605d03.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f9d40a4.css",
+    "static/js/main.a5605d03.js"
+  ]
+}
